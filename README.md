@@ -46,5 +46,5 @@ FasoAide est une plateforme d'apprentissage en ligne qui offre :
 ## 🛠 Installation
 1. **Cloner le dépôt** :
 ```bash
-git clone https://github.com/votre-repo/fasoaide.git
+git clone https://github.com/fasoaide/fasoaide.git
 cd fasoaide
